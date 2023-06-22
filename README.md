@@ -1,13 +1,11 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/youssef-yu-kun/">
+  <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://codeforces.com/profile/yousseffninja">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.hackerrank.com/yousseffmohamed1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Twitter Badge"/>
@@ -73,7 +71,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffninja&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yousseffninja)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 <!--
 **yousseffninja/yousseffninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
