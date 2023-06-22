@@ -6,25 +6,12 @@
   <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/yousseffmohamed1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Twitter Badge"/>
+  <a href="imohamedosmann@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.facebook.com/Youssefmohamedd0/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://leetcode.com/MoOsman_5/">
+    <img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="discordapp.com/users/474314787514351646">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="yousseffmohamedd22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01fd111a4c97ba8195">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <!--
 <h1>
