@@ -22,16 +22,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<!--
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications by using Nodejs.
+- :telescope: I’m working as a Software Engineer and contributing to full stack for building web applications by using MEARN stack.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
--
 
+
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
