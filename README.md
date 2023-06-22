@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://leetcode.com/MoOsman_5/">
-    <img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-FFC926?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
   </a>
 
 <!--
