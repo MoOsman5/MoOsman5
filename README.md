@@ -114,9 +114,9 @@
 ### Operating Systems:
 
 <div align ="center">
-<code title="Linux"><img src="images/images.jpg" width="40" height="40" /></code>
-<code title="Windows"><img src="images/windows.png" height="40" /></code>
-<code title="VMware"><img src="images/vmware.png" height="40" /></code>
+<code title="Linux"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/images.jpg" width="40" height="40" /></code>
+<code title="Windows"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" /></code>
+<code title="VMware"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vmware.png" height="40" /></code>
 
 </div>
 </ul>
