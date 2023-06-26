@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Hacker.gif" width="100"/>
 </div>
-# Hi there, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
+<h2>
+  Hi there, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
+</h2> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -11,8 +13,8 @@
 
 
     
-   ### "Success is the place where people who are determined not to give up come to.⛰"
-   
+   <h2>"Success is the place where people who are determined not to give up come to.⛰"
+   </h2> 
  </span>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="MoOsman5" />
