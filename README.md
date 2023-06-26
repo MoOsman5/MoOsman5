@@ -15,7 +15,7 @@
 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
-  <span align="">
+  <span align="center">
    
    ### "Success is the place where people who are determined not to give up come to.⛰"
  
