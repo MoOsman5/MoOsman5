@@ -15,6 +15,14 @@
 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
+  <span align="">
+   
+   ### if(today.self > yesterday.self){
+         print("You Are in the Right Path!")
+       }
+ 
+ </span>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
