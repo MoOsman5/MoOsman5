@@ -121,9 +121,9 @@
   <img   src="http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000" >
 
   <br>  
-    <img  height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark" >
+    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark" >
   <br>
-  <img  height="175" src="https://github-readme-stats.vercel.app/api?username=MOOsman5&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
+  <img   src="https://github-readme-stats.vercel.app/api?username=MOOsman5&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
   <br>
 </div>
 
