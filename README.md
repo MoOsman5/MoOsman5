@@ -29,10 +29,9 @@
   <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="MoOsman5" />
 </div>
 <div align="center">
-  <img  width=90% src="images/neon.gif">
+  <img  width=90% src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/neon.gif">
 </div>
 
-<hr>
 
 ### :woman_technologist: About Me :
 
@@ -42,6 +41,10 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
+  
+<div align="center">
+  <img  width=90% src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/neon.gif">
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
