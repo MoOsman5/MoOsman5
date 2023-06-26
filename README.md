@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Hacker.gif" width="100"/>
 </div>
-### Hi there <img height ="35px" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
+# Hi there, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 
     
-   ###"Success is the place where people who are determined not to give up come to.⛰"
+   ### "Success is the place where people who are determined not to give up come to.⛰"
    
  </span>
 <div align="center">
