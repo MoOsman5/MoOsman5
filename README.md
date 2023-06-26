@@ -56,7 +56,7 @@
   <div align ="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="  https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    </div>
@@ -73,7 +73,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;  
-  <img src="  https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp; 
 
@@ -86,7 +86,7 @@
   ### Backend && DataBase Development:
   <div align ="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="40" height="40"/>
+    <img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="50" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nest" **alt="nest" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png" title="Mongodb" **alt="mongodb" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
