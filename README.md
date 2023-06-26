@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Hacker.gif" width="100"/>
 </div>
-
+<!--
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,18 +12,19 @@
     <a href="https://leetcode.com/MoOsman_5/">
     <img src="https://img.shields.io/badge/Leetcode-FFC926?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
   </a>
+  -->
 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   <span align="center">
    
    ### "Success is the place where people who are determined not to give up come to.⛰"
  
  </span>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :woman_technologist: About Me :
 
