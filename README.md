@@ -86,7 +86,7 @@
   ### Backend && DataBase Development:
   <div align ="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="50" height="40"/>
+    <img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="80" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nest" **alt="nest" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png" title="Mongodb" **alt="mongodb" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
