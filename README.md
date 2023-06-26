@@ -1,18 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Hacker.gif" width="100"/>
 </div>
-<!--
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="imohamedosmann@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-    <a href="https://leetcode.com/MoOsman_5/">
-    <img src="https://img.shields.io/badge/Leetcode-FFC926?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
-  </a>
-  -->
 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
@@ -133,7 +121,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MoOsman5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with me: <a id = "Connect"></a>
 
@@ -154,7 +141,7 @@
 </div>
 <br>
 <div align="center">
-<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=MOOsman5&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
 <br>
 </div>
 
