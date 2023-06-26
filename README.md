@@ -124,27 +124,39 @@
 </li>
 <div align="center">
   <img  width=90% src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/neon.gif">
-</div>
-
-
-
-
-
-
-
-
-    
+</div>    
 </div>
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoOsman5)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Connect with me: <a id = "Connect"></a>
+
+</br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/" target="blank"><img align="center"
+      src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/linkedin.png"
+      alt="linkedin" height="30" width="30" /></a>
+ <a href="mailto:imohamedosmann@gmail.com" target="blank"><img align="center"
+      src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Gmail.png"
+      alt="gmail" height="30px" width="40px" /></a> 
+ <a href="https://github.com/MoOsman5" target="blank"><img align="center"
+      src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/git.png"
+      alt="github" height="30px" width="30px" /></a>  
+ <a href="https://leetcode.com/MoOsman_5/" target="blank"><img align="center"
+      src="https://github.com/MoOsman5/movie-max/blob/master/public/images/LeetCode_Logo.png"
+      alt="github" height="30px" width="30px" /></a> 
+</div>
+<br>
+<div align="center">
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
+<br>
+</div>
 
 <br>
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Later.."/></p>
