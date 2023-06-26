@@ -117,9 +117,8 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000)](https://git.io/streak-stats)
 <div align="center">
-  <img  height="175" src="http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000" >
+  <img   src="http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000" >
 
   <br>  
     <img  height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark" >
