@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Hacker.gif" width="100"/>
 </div>
-# Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
+# Hi there <img height ="35px" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 
 
 <div align="center">
