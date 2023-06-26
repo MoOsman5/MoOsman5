@@ -31,80 +31,80 @@
 
 ### :hammer_and_wrench: Technical Skills :
 <div>
-  <ul>
-    <li>
+<ul>
+<li>
 
-      ### Programming languages:
-      
-        <div align ="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-         </div>
-    </li>
+### Programming languages:
 
-    <li>
+<div align ="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+</li>
 
-      ### Frontend Development:
-      
-      <div align ="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;  
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;  
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp; 
-      
-      </div>
-      <br>
-    </li>
+<li>
+
+### Frontend Development:
+
+<div align ="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp; 
+
+</div>
+<br>
+</li>
 
 
-    <li>
-      ### Backend && DataBase Development:
-      <div align ="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="80" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nest" **alt="nest" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png" title="Mongodb" **alt="mongodb" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/sql.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-      </div>
-      <br>
-    </li>
-    <li>
+<li>
+### Backend && DataBase Development:
+<div align ="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/MoOsman5/movie-max/blob/master/public/images/pngwing.com.png" title="express" **alt="express" width="80" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nest" **alt="nest" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png" title="Mongodb" **alt="mongodb" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/sql.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+</div>
+<br>
+</li>
+<li>
 
-      ### Software & Tools:
-      
-      <div align ="center">
-      
-      <code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Git2.png"></code>
-      <code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/git.png"></code>
-      <code title="StackOverflow"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/StackOverflow.png"></code>
-      
-      </div>
-      <br>
-    </li>
-    <li>
+### Software & Tools:
 
-      ### Operating Systems:
-      
-      <div align ="center">
-      <code title="Linux"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/images.jpg" width="40" height="40" /></code>
-      <code title="Windows"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" /></code>
-      <code title="VMware"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vmware.png" height="40" /></code>
-      
-      </div>
-      </ul>
-      <br>
-    </li>
+<div align ="center">
+
+<code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Git2.png"></code>
+<code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/git.png"></code>
+<code title="StackOverflow"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/StackOverflow.png"></code>
+
+</div>
+<br>
+</li>
+<li>
+
+### Operating Systems:
+
+<div align ="center">
+<code title="Linux"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/images.jpg" width="40" height="40" /></code>
+<code title="Windows"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" /></code>
+<code title="VMware"><img src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/vmware.png" height="40" /></code>
+
+</div>
+</ul>
+<br>
+</li>
 <div align="center">
   <img  width=90% src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/neon.gif">
 </div>    
