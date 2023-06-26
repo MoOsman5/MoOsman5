@@ -3,7 +3,7 @@
 </div>
 
 <h2>
-  Hi there, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
+  Hi there <img height ="35px" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 </h2> 
 
 <div align="center">
@@ -13,8 +13,8 @@
 
 
     
-   <h2>"Success is the place where people who are determined not to give up come to.⛰"
-   </h2> 
+   <h3>"Success is the place where people who are determined not to give up come to.⛰"
+   </h3> 
  </span>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="MoOsman5" />
