@@ -65,7 +65,10 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5)](https://github.com/anuraghazra/github-readme-stats)
 
