@@ -118,8 +118,13 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoOsman5&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+<br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align="center">
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=MOOsman5&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
+<br>
+</div>
 
 
 ## 📫 Connect with me: <a id = "Connect"></a>
@@ -140,10 +145,7 @@
       alt="github" height="30px" width="30px" /></a> 
 </div>
 <br>
-<div align="center">
-<img  height="175" src="https://github-readme-stats.vercel.app/api?username=MOOsman5&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
-<br>
-</div>
+
 
 <br>
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Later.."/></p>
