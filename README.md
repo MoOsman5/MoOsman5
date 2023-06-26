@@ -17,9 +17,9 @@
 
   <span align="">
    
-   ### if(today.self > yesterday.self){
+   ### "if(today.self > yesterday.self){
          print("You Are in the Right Path!")
-       }
+       }"
  
  </span>
 
