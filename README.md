@@ -25,9 +25,11 @@
    ### "Success is the place where people who are determined not to give up come to.⛰"
  
  </span>
- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="MoOsman5" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="MoOsman5" />
+</div>
+<div align="center">
+  <img  width=90% src="images/neon.gif">
 </div>
 
 ### :woman_technologist: About Me :
