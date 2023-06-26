@@ -32,6 +32,8 @@
   <img  width=90% src="images/neon.gif">
 </div>
 
+<hr>
+
 ### :woman_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to full stack for building web applications by using MEARN stack.
