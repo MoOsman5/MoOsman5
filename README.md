@@ -102,9 +102,7 @@
 
 <div align ="center">
 
-<code title="Git">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</code>
+<code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Git2.png"></code>
 <code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/git.png"></code>
 <code title="StackOverflow"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/StackOverflow.png"></code>
 
