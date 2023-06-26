@@ -17,9 +17,7 @@
 
   <span align="">
    
-   ### "if(today.self > yesterday.self){
-         print("You Are in the Right Path!")
-       }"
+   ### "Success is the place where people who are determined not to give up come to.⛰"
  
  </span>
 
