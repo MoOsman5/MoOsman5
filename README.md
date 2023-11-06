@@ -3,7 +3,7 @@
 </div>
 
 <h2>
-  Hi there <img height ="35px" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
+  Hi there <img height ="20px" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-osman-2114b4240/">Mohamed!</a>
 </h2> 
 
 <div align="center">
