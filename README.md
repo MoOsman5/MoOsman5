@@ -94,8 +94,8 @@
 ### Software & Tools:
 
 <div align ="center">
-
-<code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Git2.png"></code>
+<code title="GitLab"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"></code>
+<code title="Git"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/Git2.png"></code>
 <code title="GitHub"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/git.png"></code>
 <code title="StackOverflow"><img height="40" src="https://github.com/EslamAsHhraf/EslamAsHhraf/blob/main/images/StackOverflow.png"></code>
 
