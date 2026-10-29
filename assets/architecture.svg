@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070f"/>
+      <stop offset="1" stop-color="#0d0b1e"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7aa2ff" fill-opacity="0.09"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="620" rx="22"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: -apple-system, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+      .node { fill: #0b1224; stroke-width: 1.5; }
+      .t { font-family: -apple-system, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #f1f5f9; }
+      .s { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11px; fill: #94a3b8; }
+      .edge { fill: none; stroke-width: 1.5; stroke-opacity: 0.35; }
+      .pulse { animation: pulse 1.6s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+    </style>
+    <path id="c1" d="M210 145 C 250 145, 250 240, 290 240"/>
+    <path id="c2" d="M210 215 C 250 215, 250 240, 290 240"/>
+    <path id="c3" d="M210 285 C 250 285, 250 250, 290 250"/>
+    <path id="c4" d="M210 355 C 250 355, 250 250, 290 250"/>
+    <path id="ngx" d="M440 245 L 500 245"/>
+    <path id="cacheUp" d="M600 190 L 600 142"/>
+    <path id="cacheDown" d="M610 142 L 610 190"/>
+    <path id="pgb" d="M700 245 L 780 245"/>
+    <path id="w" d="M960 235 C 980 235, 980 165, 1000 165"/>
+    <path id="r1" d="M960 252 C 980 252, 980 282, 1000 282"/>
+    <path id="r2" d="M960 258 C 985 258, 975 352, 1000 352"/>
+    <path id="q" d="M600 300 L 600 390"/>
+    <path id="wk" d="M700 425 L 780 425"/>
+    <path id="o1" d="M960 415 C 980 415, 980 432, 1000 432"/>
+    <path id="o2" d="M960 435 C 980 435, 980 492, 1000 492"/>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="620" fill="url(#bg)"/>
+    <rect width="1200" height="620" fill="url(#dots)"/>
+
+    <text x="40" y="44" class="sans" font-size="20" font-weight="800" fill="#f8fafc">How a shipment moves through the platform I built</text>
+    <text x="40" y="66" class="mono" font-size="12" fill="#64748b">ABS Courier · logistics platform · designed &amp; built from scratch</text>
+
+    <g class="mono" font-size="11" transform="translate(800 40)">
+      <circle cx="0" cy="0" r="4" fill="#e0234e"/><text x="10" y="4" fill="#94a3b8">writes</text>
+      <circle cx="80" cy="0" r="4" fill="#7aa2ff"/><text x="90" y="4" fill="#94a3b8">reads</text>
+      <circle cx="152" cy="0" r="4" fill="#22c55e"/><text x="162" y="4" fill="#94a3b8">cache</text>
+      <circle cx="224" cy="0" r="4" fill="#c084fc"/><text x="234" y="4" fill="#94a3b8">async</text>
+    </g>
+
+    <g class="edge">
+      <use href="#c1" stroke="#7aa2ff"/><use href="#c2" stroke="#7aa2ff"/>
+      <use href="#c3" stroke="#7aa2ff"/><use href="#c4" stroke="#7aa2ff"/>
+      <use href="#ngx" stroke="#7aa2ff"/>
+      <use href="#cacheUp" stroke="#22c55e"/><use href="#cacheDown" stroke="#22c55e"/>
+      <use href="#pgb" stroke="#7aa2ff"/>
+      <use href="#w" stroke="#e0234e"/><use href="#r1" stroke="#7aa2ff"/><use href="#r2" stroke="#7aa2ff"/>
+      <use href="#q" stroke="#c084fc"/><use href="#wk" stroke="#c084fc"/>
+      <use href="#o1" stroke="#c084fc"/><use href="#o2" stroke="#c084fc"/>
+    </g>
+
+    <g>
+      <rect class="node" x="40" y="120" width="170" height="50" rx="10" stroke="#334155"/>
+      <text class="t" x="56" y="142">Operations</text><text class="s" x="56" y="159">web dashboard</text>
+      <rect class="node" x="40" y="190" width="170" height="50" rx="10" stroke="#334155"/>
+      <text class="t" x="56" y="212">Branches</text><text class="s" x="56" y="229">pickup &amp; drop-off</text>
+      <rect class="node" x="40" y="260" width="170" height="50" rx="10" stroke="#334155"/>
+      <text class="t" x="56" y="282">Fleet</text><text class="s" x="56" y="299">drivers · mobile</text>
+      <rect class="node" x="40" y="330" width="170" height="50" rx="10" stroke="#334155"/>
+      <text class="t" x="56" y="352">Partners</text><text class="s" x="56" y="369">public &amp; partner APIs</text>
+    </g>
+
+    <rect class="node" x="290" y="215" width="150" height="60" rx="10" stroke="#22c55e" stroke-opacity="0.7"/>
+    <text class="t" x="308" y="240">Nginx</text><text class="s" x="308" y="258">reverse proxy</text>
+
+    <rect class="node" x="500" y="190" width="200" height="110" rx="12" stroke="#e0234e"/>
+    <text class="t" x="520" y="222" font-size="17">NestJS API</text>
+    <text class="s" x="520" y="244">TypeScript · REST/GraphQL</text>
+    <text class="s" x="520" y="262">Docker containers</text>
+    <text class="s" x="520" y="280">OpenTelemetry traces</text>
+
+    <rect class="node" x="500" y="82" width="200" height="60" rx="10" stroke="#22c55e"/>
+    <text class="t" x="520" y="108">Redis</text><text class="s" x="520" y="126">cache layer · ~3.7x faster</text>
+
+    <rect class="node" x="780" y="215" width="180" height="60" rx="10" stroke="#7aa2ff"/>
+    <text class="t" x="798" y="240">PgBouncer</text><text class="s" x="798" y="258">pooling · read routing</text>
+
+    <rect class="node" x="1000" y="100" width="170" height="125" rx="12" stroke="#e0234e"/>
+    <text class="t" x="1016" y="124">PostgreSQL</text><text class="s" x="1016" y="141">primary · writes</text>
+    <text class="s" x="1016" y="164" fill="#64748b">partitioned by date</text>
+    <g class="mono" font-size="9" fill="#cbd5e1">
+      <rect x="1016" y="172" width="44" height="16" rx="3" fill="#1e293b"/><text x="1020" y="183">2026_08</text>
+      <rect x="1064" y="172" width="44" height="16" rx="3" fill="#1e293b"/><text x="1068" y="183">2026_09</text>
+      <rect class="pulse" x="1112" y="172" width="44" height="16" rx="3" fill="#7f1d1d"/><text x="1116" y="183">2026_10</text>
+      <rect x="1016" y="194" width="140" height="16" rx="3" fill="#111827" stroke="#334155" stroke-dasharray="3 3"/><text x="1022" y="205" fill="#64748b">query time stays flat ✓</text>
+    </g>
+
+    <rect class="node" x="1000" y="255" width="170" height="55" rx="10" stroke="#7aa2ff"/>
+    <text class="t" x="1016" y="278">Read replica 1</text><text class="s" x="1016" y="296">reporting reads</text>
+    <rect class="node" x="1000" y="325" width="170" height="55" rx="10" stroke="#7aa2ff"/>
+    <text class="t" x="1016" y="348">Read replica 2</text><text class="s" x="1016" y="366">lag-tolerant reads</text>
+    <path d="M1160 225 L1160 255 M1160 310 L1160 325" stroke="#7aa2ff" stroke-width="1.5" stroke-dasharray="3 4">
+      <animate attributeName="stroke-dashoffset" values="0;-14" dur="0.8s" repeatCount="indefinite"/>
+    </path>
+
+    <rect class="node" x="500" y="390" width="200" height="70" rx="10" stroke="#c084fc"/>
+    <text class="t" x="520" y="416">Bull queues</text><text class="s" x="520" y="434">bulk ingest · notifications</text>
+    <g transform="translate(520 442)">
+      <rect width="14" height="8" rx="2" fill="#c084fc"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></rect>
+      <rect x="18" width="14" height="8" rx="2" fill="#c084fc"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></rect>
+      <rect x="36" width="14" height="8" rx="2" fill="#c084fc"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <rect x="54" width="14" height="8" rx="2" fill="#c084fc"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.9s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <rect class="node" x="780" y="395" width="180" height="60" rx="10" stroke="#c084fc"/>
+    <text class="t" x="798" y="420">Worker</text><text class="s" x="798" y="438">dedicated processor</text>
+
+    <rect class="node" x="1000" y="410" width="170" height="45" rx="10" stroke="#334155"/>
+    <text class="t" x="1016" y="432" font-size="13">WhatsApp alerts</text><text class="s" x="1016" y="447">customer updates</text>
+    <rect class="node" x="1000" y="470" width="170" height="45" rx="10" stroke="#334155"/>
+    <text class="t" x="1016" y="492" font-size="13">Tracking events</text><text class="s" x="1016" y="507">live shipment status</text>
+
+    <g filter="url(#glow)">
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#c1"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite"><mpath href="#c2"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"><mpath href="#c3"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite"><mpath href="#c4"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="0.8s" repeatCount="indefinite"><mpath href="#ngx"/></animateMotion></circle>
+      <circle r="3.5" fill="#22c55e"><animateMotion dur="0.9s" repeatCount="indefinite"><mpath href="#cacheUp"/></animateMotion></circle>
+      <circle r="3.5" fill="#22c55e"><animateMotion dur="0.9s" begin="0.45s" repeatCount="indefinite"><mpath href="#cacheDown"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="1s" repeatCount="indefinite"><mpath href="#pgb"/></animateMotion></circle>
+      <circle r="4" fill="#e0234e"><animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#w"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="1.4s" begin="0.3s" repeatCount="indefinite"><mpath href="#r1"/></animateMotion></circle>
+      <circle r="4" fill="#7aa2ff"><animateMotion dur="1.8s" begin="0.8s" repeatCount="indefinite"><mpath href="#r2"/></animateMotion></circle>
+      <circle r="4" fill="#c084fc"><animateMotion dur="1.5s" repeatCount="indefinite"><mpath href="#q"/></animateMotion></circle>
+      <circle r="4" fill="#c084fc"><animateMotion dur="1s" begin="0.5s" repeatCount="indefinite"><mpath href="#wk"/></animateMotion></circle>
+      <circle r="4" fill="#c084fc"><animateMotion dur="1.2s" begin="0.2s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion></circle>
+      <circle r="4" fill="#c084fc"><animateMotion dur="1.4s" begin="0.9s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion></circle>
+    </g>
+
+    <line x1="40" y1="540" x2="1160" y2="540" stroke="#1e293b"/>
+    <g class="sans">
+      <text x="40" y="580" font-size="26" font-weight="800" fill="#ff8a5b">20M+</text>
+      <text x="130" y="579" class="mono" font-size="12" fill="#94a3b8">shipments / year</text>
+      <text x="330" y="580" font-size="26" font-weight="800" fill="#7aa2ff">1,000+</text>
+      <text x="440" y="579" class="mono" font-size="12" fill="#94a3b8">platform users</text>
+      <text x="620" y="580" font-size="26" font-weight="800" fill="#22c55e">~3.7x</text>
+      <text x="710" y="579" class="mono" font-size="12" fill="#94a3b8">faster responses</text>
+      <text x="900" y="580" font-size="26" font-weight="800" fill="#c084fc">0</text>
+      <text x="924" y="579" class="mono" font-size="12" fill="#94a3b8">downtime on live migrations</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="619" rx="22" fill="none" stroke="#7aa2ff" stroke-opacity="0.18"/>
+  </g>
+</svg>
