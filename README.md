@@ -13,20 +13,21 @@
 
 I design and build backend systems that have to stay fast as the data grows.
 
-At **ABS Courier** I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It now handles **20M+ shipments a year for 1,000+ users**, and I lead the team of 5 backend engineers behind it.
+At **ABS Courier** (2024 – 2026) I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It handles **20M+ shipments a year for 1,000+ users**, and I led the team of 5 backend engineers behind it.
 
 ```ts
 const mohamed = {
-  role: "Senior Backend Engineer · Backend Team Lead @ ABS Courier",
+  role: "Senior Backend Engineer",
+  previously: "Backend Team Lead @ ABS Courier (2024 – 2026)",
   location: "Giza, Egypt 🇪🇬",
   stack: ["TypeScript", "Node.js", "NestJS", "PostgreSQL", "Redis", "Bull", "Docker", "AWS"],
   focus: ["database performance", "queue-based processing", "multi-tenant SaaS"],
-  currently: "re-architecting the platform into a multi-tenant SaaS for courier companies",
+  lastShipped: "kicked off the platform's re-architecture into a multi-tenant SaaS",
   alsoShips: ["React", "Next.js", "React Native"],
 };
 ```
 
-## 🏗️ The platform I built
+## 🏗️ The platform I built at ABS Courier
 
 <p align="center">
   <img src="./assets/architecture.svg" width="100%" alt="ABS Courier platform architecture"/>
@@ -40,6 +41,28 @@ const mohamed = {
 | API latency | Introduced a Redis caching layer, improving response times **~3.7x** |
 | Schema changes on live data | Ran zero-downtime migrations on live high-volume tables |
 | External integrations | Built the public shipment-tracking and partner-facing APIs |
+
+## 💼 Experience
+
+<p align="center">
+  <img src="./assets/experience.svg" width="100%" alt="Experience timeline: ABS Courier, DECI, NasNav, Teqneia ICT"/>
+</p>
+
+<details>
+<summary><b>Read it as text</b></summary>
+
+| When | Where | Role | Highlights |
+| --- | --- | --- | --- |
+| 2024/11 – 2026/10 | **ABS Courier** · Cairo | Backend Team Leader | Built the logistics platform from scratch (20M+ shipments/yr), date partitioning, read replicas behind PgBouncer, Bull queues, Redis (~3.7x faster), led 5 engineers |
+| 2024/05 – 2024/11 | **ABS Courier** · Cairo | Full Stack Developer | Proposed NestJS + PostgreSQL for the replacement, owned the architecture, took over the backend within 6 months |
+| 2024/01 – 2026/09 | **DECI** · Giza | Instructor | Taught coding and robotics to young learners |
+| 2023/06 – 2024/05 | **NasNav** · Al Rehab City | Software Developer | React web apps and React Native mobile apps integrated with backend APIs |
+| 2022/06 – 2023/06 | **Teqneia ICT** · El Sheikh Zayed | Software Developer | Responsive React.js web apps for client projects |
+
+**Education:** Cairo University, Faculty of Science · Bachelor of Computer Science (2018 – present)
+**Awards:** ECPC 2022 · Egyptian Collegiate Programming Contest
+
+</details>
 
 ## 🧰 Tech stack
 
