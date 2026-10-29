@@ -1,27 +1,36 @@
-<h1 align="center">Hi, I'm Mohamed Osman 👋</h1>
-<h3 align="center">Senior Backend Engineer · NestJS · PostgreSQL · Distributed systems</h3>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mohamed Osman — Senior Backend Engineer"/>
+</p>
 
 <p align="center">
-  <a href="https://mohamed-osman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-osman-2114b4240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mohamed-osman.com"><img src="https://img.shields.io/badge/Portfolio-mohamed--osman.com-0b1224?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-osman-eg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:imohamedosmann@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/MoOsman_5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
----
-
-### About me
+## 👋 About me
 
 I design and build backend systems that have to stay fast as the data grows.
 
 At **ABS Courier** I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It now handles **20M+ shipments a year for 1,000+ users**, and I lead the team of 5 backend engineers behind it.
 
-- 🏗️ Currently re-architecting the platform into a **multi-tenant SaaS** for external courier companies
-- 🧑‍🏫 Teaching coding and robotics to young learners with the Digital Egypt Cubs Initiative (DECI)
-- 🏆 ECPC competitor (Egyptian Collegiate Programming Contest)
-- 📍 Giza, Egypt
+```ts
+const mohamed = {
+  role: "Senior Backend Engineer · Backend Team Lead @ ABS Courier",
+  location: "Giza, Egypt 🇪🇬",
+  stack: ["TypeScript", "Node.js", "NestJS", "PostgreSQL", "Redis", "Bull", "Docker", "AWS"],
+  focus: ["database performance", "queue-based processing", "multi-tenant SaaS"],
+  currently: "re-architecting the platform into a multi-tenant SaaS for courier companies",
+  alsoShips: ["React", "Next.js", "React Native"],
+};
+```
 
-### What I've built recently
+## 🏗️ The platform I built
+
+<p align="center">
+  <img src="./assets/architecture.svg" width="100%" alt="ABS Courier platform architecture"/>
+</p>
 
 | Problem | What I did |
 | --- | --- |
@@ -32,41 +41,30 @@ At **ABS Courier** I designed and built the company's logistics platform from sc
 | Schema changes on live data | Ran zero-downtime migrations on live high-volume tables |
 | External integrations | Built the public shipment-tracking and partner-facing APIs |
 
-### Tech stack
+## 🧰 Tech stack
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,graphql&theme=dark" alt="Backend"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,graphql,postgres,redis,mysql,mongodb&perline=9&theme=dark" alt="Backend and databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,prometheus,grafana,linux,react,nextjs&perline=9&theme=dark" alt="Infrastructure and frontend"/>
 </p>
 
-**Databases & caching**
+<p align="center"><sub>Also: Bull queues · PgBouncer · OpenTelemetry · Loki · event-driven design · Architecture Decision Records</sub></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark" alt="Databases"/>
-</p>
+## 📈 GitHub activity
 
-**Infrastructure & observability**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,prometheus,grafana,git,linux&theme=dark" alt="Infrastructure"/>
-</p>
-
-**Frontend (when needed)**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-</p>
-
-Also: Bull queues · PgBouncer · OpenTelemetry · Loki · event-driven design · Architecture Decision Records
-
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoOsman5&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOsman5&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoOsman5&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0b1224" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=MoOsman5&theme=tokyonight&hide_border=true&background=0b1224" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoOsman5/MoOsman5/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/MoOsman5/MoOsman5/output/github-snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoOsman5&label=Profile%20views&color=e0234e&style=flat-square" alt="Profile views"/>
 </p>
