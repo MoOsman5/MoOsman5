@@ -74,7 +74,7 @@
     </g>
 
     <text x="68" y="150" class="sans" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1">Mohamed Osman</text>
-    <text x="70" y="192" class="sans" font-size="24" font-weight="600" fill="#cbd5e1">Senior Backend Engineer <tspan fill="#64748b">·</tspan> ex-Backend Team Lead @ ABS Courier</text>
+    <text x="70" y="192" class="sans" font-size="24" font-weight="600" fill="#cbd5e1">Senior Backend Engineer <tspan fill="#64748b">·</tspan> ex-Principal Architect @ ABS Courier</text>
 
     <g class="mono" font-size="19">
       <text x="70" y="248" fill="#e0234e">$</text>
