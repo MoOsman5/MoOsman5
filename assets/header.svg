@@ -74,7 +74,7 @@
     </g>
 
     <text x="68" y="150" class="sans" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1">Mohamed Osman</text>
-    <text x="70" y="192" class="sans" font-size="24" font-weight="600" fill="#cbd5e1">Senior Backend Engineer <tspan fill="#64748b">·</tspan> Backend Team Lead @ ABS Courier</text>
+    <text x="70" y="192" class="sans" font-size="24" font-weight="600" fill="#cbd5e1">Senior Backend Engineer <tspan fill="#64748b">·</tspan> ex-Backend Team Lead @ ABS Courier</text>
 
     <g class="mono" font-size="19">
       <text x="70" y="248" fill="#e0234e">$</text>
@@ -82,13 +82,13 @@
         <text class="line" x="0" y="248" fill="#e2e8f0">built a logistics platform running <tspan fill="#ff8a5b">20M+ shipments / year</tspan></text>
         <text class="line l2" x="0" y="248" fill="#e2e8f0">postgres partitioning <tspan fill="#64748b">+</tspan> read replicas <tspan fill="#64748b">+</tspan> <tspan fill="#7aa2ff">PgBouncer</tspan></text>
         <text class="line l3" x="0" y="248" fill="#e2e8f0">bull queues <tspan fill="#64748b">+</tspan> redis caching <tspan fill="#64748b">→</tspan> <tspan fill="#22c55e">~3.7x faster responses</tspan></text>
-        <text class="line l4" x="0" y="248" fill="#e2e8f0">now: re-architecting into a <tspan fill="#c084fc">multi-tenant SaaS</tspan></text>
+        <text class="line l4" x="0" y="248" fill="#e2e8f0">led a team of <tspan fill="#c084fc">5 backend engineers</tspan> · reviews &amp; mentoring</text>
       </g>
     </g>
 
     <g transform="translate(860 112)">
       <rect width="270" height="150" rx="14" fill="#0b1224" fill-opacity="0.85" stroke="#334155" stroke-opacity="0.8"/>
-      <text x="20" y="32" class="mono" font-size="12" fill="#64748b">// production</text>
+      <text x="20" y="32" class="mono" font-size="12" fill="#64748b">// shipped at ABS Courier</text>
       <text x="20" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">20M+</text>
       <text x="20" y="88" class="mono" font-size="12" fill="#94a3b8">shipments / year</text>
       <text x="150" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">1K+</text>
