@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://mohamed-osman.com"><img src="https://img.shields.io/badge/Portfolio-mohamed--osman.com-0b1224?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mohamed-osman.com/writing"><img src="https://img.shields.io/badge/Writing-PostgreSQL_%26_NestJS-c8a96a?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Writing"/></a>
   <a href="https://www.linkedin.com/in/mohamed-osman-eg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:imohamedosmann@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/MoOsman_5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -13,7 +14,7 @@
 
 I design and build backend systems that have to stay fast as the data grows.
 
-At **ABS Courier** (2024 – 2026) I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It handles **20M+ shipments a year for 50,000+ users**: 1,000+ staff, 5,000+ business customers, and the consignees tracking their shipments, I led the team of 5 backend engineers behind it, then owned its architecture as Principal Architect.
+At **ABS Courier** (2024 – 2026) I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It handles **20M+ shipments a year for 50,000+ users**: 1,000+ staff, 5,000+ business customers, and the consignees tracking their shipments. I led the team of 5 backend engineers behind it, then owned its architecture as Principal Architect.
 
 ```ts
 const mohamed = {
