@@ -13,7 +13,7 @@
 
 I design and build backend systems that have to stay fast as the data grows.
 
-At **ABS Courier** (2024 – 2026) I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It handles **20M+ shipments a year for 1,000+ users**, and I led the team of 5 backend engineers behind it.
+At **ABS Courier** (2024 – 2026) I designed and built the company's logistics platform from scratch, replacing a purchased legacy system. It handles **20M+ shipments a year for 50,000+ users**: 1,000+ staff, 5,000+ business customers, and the consignees tracking their shipments, and I led the team of 5 backend engineers behind it.
 
 ```ts
 const mohamed = {

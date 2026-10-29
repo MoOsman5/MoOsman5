@@ -91,8 +91,8 @@
       <text x="20" y="32" class="mono" font-size="12" fill="#64748b">// shipped at ABS Courier</text>
       <text x="20" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">20M+</text>
       <text x="20" y="88" class="mono" font-size="12" fill="#94a3b8">shipments / year</text>
-      <text x="150" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">1K+</text>
-      <text x="150" y="88" class="mono" font-size="12" fill="#94a3b8">platform users</text>
+      <text x="150" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">50K+</text>
+      <text x="150" y="88" class="mono" font-size="12" fill="#94a3b8">users</text>
       <path d="M20 132 L48 124 L76 128 L104 114 L132 118 L160 104 L188 108 L216 94 L250 98" fill="none" stroke="#e0234e" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="260" stroke-dashoffset="260">
         <animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite"/>
       </path>
