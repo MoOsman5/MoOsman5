@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070f"/>
+      <stop offset="0.55" stop-color="#0b1022"/>
+      <stop offset="1" stop-color="#120a24"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0234e"/>
+      <stop offset="0.5" stop-color="#ff8a5b"/>
+      <stop offset="1" stop-color="#7aa2ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.4 0;0.4 0;-0.4 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e0234e" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#e0234e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#336791" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#336791" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7aa2ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.15"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <style>
+      .mono { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: -apple-system, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+      .line { opacity: 0; animation: cycle 16s infinite; }
+      .l2 { animation-delay: 4s; } .l3 { animation-delay: 8s; } .l4 { animation-delay: 12s; }
+      @keyframes cycle {
+        0% { opacity: 0; transform: translateY(10px); }
+        3% { opacity: 1; transform: translateY(0); }
+        22% { opacity: 1; transform: translateY(0); }
+        25% { opacity: 0; transform: translateY(-10px); }
+        100% { opacity: 0; }
+      }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridMask)"/>
+
+    <circle cx="1020" cy="70" r="230" fill="url(#orbA)">
+      <animate attributeName="cx" values="1020;960;1020" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="330" r="260" fill="url(#orbB)">
+      <animate attributeName="cy" values="330;290;330" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <g stroke-linecap="round" fill="none">
+      <path d="M0 290 C 300 250, 520 330, 800 270 S 1100 230, 1200 250" stroke="#7aa2ff" stroke-opacity="0.18" stroke-width="1.5"/>
+      <path d="M0 310 C 260 280, 560 340, 840 300 S 1080 270, 1200 285" stroke="#e0234e" stroke-opacity="0.15" stroke-width="1.5"/>
+      <path d="M0 290 C 300 250, 520 330, 800 270 S 1100 230, 1200 250" stroke="#7aa2ff" stroke-width="2.5" stroke-dasharray="6 120">
+        <animate attributeName="stroke-dashoffset" values="0;-504" dur="5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 310 C 260 280, 560 340, 840 300 S 1080 270, 1200 285" stroke="#ff8a5b" stroke-width="2.5" stroke-dasharray="4 150">
+        <animate attributeName="stroke-dashoffset" values="0;-616" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g transform="translate(70 58)">
+      <rect width="232" height="30" rx="15" fill="#0f172a" stroke="#22c55e" stroke-opacity="0.45"/>
+      <circle class="pulse" cx="18" cy="15" r="5" fill="#22c55e"/>
+      <text x="32" y="20" class="mono" font-size="13" fill="#86efac">system status: operational</text>
+    </g>
+
+    <text x="68" y="150" class="sans" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1">Mohamed Osman</text>
+    <text x="70" y="192" class="sans" font-size="24" font-weight="600" fill="#cbd5e1">Senior Backend Engineer <tspan fill="#64748b">·</tspan> Backend Team Lead @ ABS Courier</text>
+
+    <g class="mono" font-size="19">
+      <text x="70" y="248" fill="#e0234e">$</text>
+      <g transform="translate(92 0)">
+        <text class="line" x="0" y="248" fill="#e2e8f0">built a logistics platform running <tspan fill="#ff8a5b">20M+ shipments / year</tspan></text>
+        <text class="line l2" x="0" y="248" fill="#e2e8f0">postgres partitioning <tspan fill="#64748b">+</tspan> read replicas <tspan fill="#64748b">+</tspan> <tspan fill="#7aa2ff">PgBouncer</tspan></text>
+        <text class="line l3" x="0" y="248" fill="#e2e8f0">bull queues <tspan fill="#64748b">+</tspan> redis caching <tspan fill="#64748b">→</tspan> <tspan fill="#22c55e">~3.7x faster responses</tspan></text>
+        <text class="line l4" x="0" y="248" fill="#e2e8f0">now: re-architecting into a <tspan fill="#c084fc">multi-tenant SaaS</tspan></text>
+      </g>
+    </g>
+
+    <g transform="translate(860 112)">
+      <rect width="270" height="150" rx="14" fill="#0b1224" fill-opacity="0.85" stroke="#334155" stroke-opacity="0.8"/>
+      <text x="20" y="32" class="mono" font-size="12" fill="#64748b">// production</text>
+      <text x="20" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">20M+</text>
+      <text x="20" y="88" class="mono" font-size="12" fill="#94a3b8">shipments / year</text>
+      <text x="150" y="68" class="sans" font-size="30" font-weight="800" fill="#f8fafc">1K+</text>
+      <text x="150" y="88" class="mono" font-size="12" fill="#94a3b8">platform users</text>
+      <path d="M20 132 L48 124 L76 128 L104 114 L132 118 L160 104 L188 108 L216 94 L250 98" fill="none" stroke="#e0234e" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="260" stroke-dashoffset="260">
+        <animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="339" rx="22" fill="none" stroke="#7aa2ff" stroke-opacity="0.18"/>
+  </g>
+</svg>
