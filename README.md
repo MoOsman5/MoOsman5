@@ -54,7 +54,6 @@ const mohamed = {
 ## 📈 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoOsman5&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0b1224" alt="GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=MoOsman5&theme=tokyonight&hide_border=true&background=0b1224" alt="GitHub streak"/>
 </p>
 
